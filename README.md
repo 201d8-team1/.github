@@ -1,11 +1,11 @@
 Gerald Reitmeyer
-   https://www.linkedin.com/in/gerald-reitmeyer/
-   https://github.com/gerreit
+   [Linked-IN](https://www.linkedin.com/in/gerald-reitmeyer/)
+   [GitHub](https://github.com/gerreit)
 
 Jason Jung
-   https://www.linkedin.com/in/jason-jung-151450272/
-   https://github.com/jaehwanjung23
+   [Linked-IN](https://www.linkedin.com/in/jason-jung-151450272/)
+   [GitHub](https://github.com/jaehwanjung23)
 
 David Prutch
-    https://www.linkedin.com/in/david-prutch-1027/
-    https://github.com/PrutchD
+    [Linked-IN](https://www.linkedin.com/in/david-prutch-1027/)
+    [GitHub](https://github.com/PrutchD)
