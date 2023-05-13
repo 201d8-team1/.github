@@ -1,15 +1,15 @@
 ![mygreatheader](banner.png)
 Gerald Reitmeyer
-   [Linked-In](https://www.linkedin.com/in/gerald-reitmeyer/)
-   [GitHub](https://github.com/gerreit)
-
+   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/gerald-reitmeyer/)
+   [![github](icons8-github-94.png)](https://github.com/gerreit)
 Jason Jung
-   [Linked-In](https://www.linkedin.com/in/jason-jung-151450272/)
-   [GitHub](https://github.com/jaehwanjung23)
+   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/j)
+   [![github](icons8-github-94.png)](https://github.com/jaehwanjung23)
 
 David Prutch
-    [Linked-In](https://www.linkedin.com/in/david-prutch-1027/)
-    [GitHub](https://github.com/PrutchD)
+    [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/david-prutch-1027/)
+    [![github](icons8-github-94.png)](https://github.com/PrutchD)
+
 # Repositories
 
 [Scripts](https://github.com/201d8-team1/Scripts)
