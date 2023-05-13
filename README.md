@@ -1,4 +1,4 @@
-![mygreatheader](.github/banner.png)
+![mygreatheader](banner.png)
 Gerald Reitmeyer
    [Linked-IN](https://www.linkedin.com/in/gerald-reitmeyer/)
    [GitHub](https://github.com/gerreit)
