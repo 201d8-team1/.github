@@ -1,3 +1,4 @@
+![mygreatheader](.github/banner.png)
 Gerald Reitmeyer
    [Linked-IN](https://www.linkedin.com/in/gerald-reitmeyer/)
    [GitHub](https://github.com/gerreit)
