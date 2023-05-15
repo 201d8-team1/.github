@@ -1,8 +1,8 @@
-![mygreatheader](banner.png)
+![mygreatheader](https://raw.githubusercontent.com/201d8-team1/.github/profile/banner.png)
 
 | Gerald Reitmeyer | Jason Jung |
 |:------------------:|:------------:|
-|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/gerald-reitmeyer/) [![github](icons8-github-94.png)](https://github.com/gerreit) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/j)[![github](icons8-github-94.png)](https://github.com/jaehwanjung23) |
+|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/gerald-reitmeyer/) [![github](icons8-github-94.png)](https://github.com/gerreit) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/jason-jung-151450272/)[![github](icons8-github-94.png)](https://github.com/jaehwanjung23) |
 
 | David Prutch | Wayne Brandon |
 |:---------------:|:----------:|
