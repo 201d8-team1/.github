@@ -15,4 +15,3 @@
 [Documentation](https://github.com/201d8-team1/Documentation)
 
 [Presentation and Project Organization](https://github.com/201d8-team1/PresentationandProjectOrganization)
-      
