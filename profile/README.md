@@ -6,7 +6,7 @@
 
 | David Prutch | Wayne Brandon |
 |:---------------:|:----------:|
-|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/david-prutch-1027/) [![github](icons8-github-94.png)](https://github.com/PrutchD) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/wayne-brandon/) [![github](icons8-github-94.png)]()
+|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/david-prutch-1027/) [![github](icons8-github-94.png)](https://github.com/PrutchD) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/wayne-brandon/) [![github](icons8-github-94.png)](https://github.com/highapptitude77)
 
 # Repositories
 
