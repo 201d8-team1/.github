@@ -1,4 +1,4 @@
-![mygreatheader](/banner.png)
+![mygreatheader](banner.png)
 
 | Gerald Reitmeyer | Jason Jung |
 |:------------------:|:------------:|
