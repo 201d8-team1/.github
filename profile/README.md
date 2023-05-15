@@ -1,4 +1,4 @@
-![mygreatheader](https://raw.githubusercontent.com/201d8-team1/master/.github/profile/banner.png)
+![mygreatheader](https://github.com/201d8-team1/.github/blob/main/profile/banner.png)
 
 | Gerald Reitmeyer | Jason Jung |
 |:------------------:|:------------:|
