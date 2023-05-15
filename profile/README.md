@@ -2,11 +2,11 @@
 
 | Gerald Reitmeyer | Jason Jung |
 |:------------------:|:------------:|
-|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/gerald-reitmeyer/) [![github](icons8-github-94.png)](https://github.com/gerreit) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/jason-jung-151450272/)[![github](icons8-github-94.png)](https://github.com/jaehwanjung23) |
+|   [![linkedin](https://github.com/201d8-team1/.github/blob/main/profile/icons8-linkedin-100.png)](https://www.linkedin.com/in/gerald-reitmeyer/) [![github](https://github.com/201d8-team1/.github/blob/main/profile/icons8-github-94.png)](https://github.com/gerreit) | [![linkedin](https://github.com/201d8-team1/.github/blob/main/profile/icons8-linkedin-100.png)](https://www.linkedin.com/in/jason-jung-151450272/)[![github](https://github.com/201d8-team1/.github/blob/main/profile/icons8-github-94.png)](https://github.com/jaehwanjung23) |
 
 | David Prutch | Wayne Brandon |
 |:---------------:|:----------:|
-|   [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/david-prutch-1027/) [![github](icons8-github-94.png)](https://github.com/PrutchD) | [![linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/wayne-brandon/) [![github](icons8-github-94.png)](https://github.com/highapptitude77) |
+|   [![linkedin](https://github.com/201d8-team1/.github/blob/main/profile/icons8-linkedin-100.png)](https://www.linkedin.com/in/david-prutch-1027/) [![github](https://github.com/201d8-team1/.github/blob/main/profile/icons8-github-94.png)](https://github.com/PrutchD) | [![linkedin](https://github.com/201d8-team1/.github/blob/main/profile/icons8-linkedin-100.png)](https://www.linkedin.com/in/wayne-brandon/) [![github](https://github.com/201d8-team1/.github/blob/main/profile/icons8-github-94.png)](https://github.com/highapptitude77) |
 
 # Repositories
 
