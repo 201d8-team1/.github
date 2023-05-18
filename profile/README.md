@@ -17,4 +17,4 @@
 [Presentation and Project Organization](https://github.com/201d8-team1/PresentationandProjectOrganization)
 
 # Purpose
-This Organization was created to house all of the necessary Documentation, Scripts and Presentation materials required to assist our client Harvest Haven Grocers with this project.
+BlueWave Tech Solutions was created as as school project. Our client is Harest Haven - a local grocery store chain that is transitioning ownership. The new owners want to implement a modern tech infrastructure that was previously non-existent. The scripts repository contains all scripts used to automate tasks within the project. The documentation repository contains the SOPs created for the MSP. The Presentation and Project Organization repostiory contains the prep work, presentation material, as well as presentation video. 
