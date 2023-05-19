@@ -49,4 +49,4 @@ The scripts repository contains all scripts used to automate tasks within the pr
 ## Presentation and Project Organization Repository
 
 [Presentation and Project Organization](https://github.com/201d8-team1/PresentationandProjectOrganization)
-The Presentation and Project Organization repostiory contains the prep work, presentation materials and a link to our presentation video. 
+The Presentation and Project Organization repostiory contains the prep work, presentation materials and a link to our [presentation video](https://zoom.us/rec/play/uSDxjVAs-SKVBIGBRXW-joVvmGEkE18s9a4GWKY0JMuCtLOLtp_PRXf1uKp6PX6rjPLCX22dEHTlNq5Y.97pZoyqJvx_RUPGe?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fup_ZojrfbMNht-U6tIEpGbRSdn83rtMWEijPRewm6DbyKhXNv77u6dBuWThlLE7b.ycG2bo3epssGLRHo). 
