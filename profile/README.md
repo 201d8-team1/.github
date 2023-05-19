@@ -17,4 +17,36 @@
 [Presentation and Project Organization](https://github.com/201d8-team1/PresentationandProjectOrganization)
 
 # Purpose
-BlueWave Tech Solutions was created as as school project. Our client is Harest Haven - a local grocery store chain that is transitioning ownership. The new owners want to implement a modern tech infrastructure that was previously non-existent. The scripts repository contains all scripts used to automate tasks within the project. The documentation repository contains the SOPs created for the MSP. The Presentation and Project Organization repostiory contains the prep work, presentation material, as well as presentation video. 
+BlueWave Tech Solutions was created as as course project. The members of our group are currently enrolled at [CodeFellows](https://www.codefellows.org/) in the Cyber Security program. This is our  group final project for the 201 course.
+
+# Scenario
+
+Our client is Harest Haven is a local grocery store chain that is transitioning ownership. 
+The new owners want to implement a modern tech infrastructure that was previously non-existent. 
+The client was using an antiquated paper and cabinet filing system.
+The employees who did work on computers were utilizing personal laptops over an unsecure wifi connection.
+Computer file sharing was conducted via email.
+The client also requested to have a cloud server setup in preparation for future projects including a new Point Of Sale system to replace thier current system.
+
+# Solutions
+
+- Our team implemented a secure internal network utilizing the features of pfSense.
+- We created A custom Windows 10 Pro ISO file pre-configured with all the required safety features and included productivity software as well as antimalware software.
+- We implemented backup solutions and file sharing via Microsoft One Drive.
+- We set up a Linux server on AWS for future needs of the client.
+- We implemented a tech support ticketing system through [Spiceworks](https://www.spiceworks.com/) to provide client support.
+
+## Documentation Repository
+
+[Documentation](https://github.com/201d8-team1/Documentation)
+This houses all the SOPs required to meet the current needs of our client.
+
+## Scripts Repository
+
+[Scripts](https://github.com/201d8-team1/Scripts)
+The scripts repository contains all scripts used to automate tasks within the project.
+
+## Presentation and Project Organization Repository
+
+[Presentation and Project Organization](https://github.com/201d8-team1/PresentationandProjectOrganization)
+The Presentation and Project Organization repostiory contains the prep work, presentation materials and a link to our presentation video. 
